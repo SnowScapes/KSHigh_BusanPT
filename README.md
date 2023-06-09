@@ -26,3 +26,11 @@ Flutter with VSCode
 
 <img width="141" alt="image" src="https://github.com/SnowScapes/KSHigh_BusanPT/assets/39547945/b88ee33d-c703-4ada-b3db-ed384c6f4c8f">
 <img width="141" alt="image" src="https://github.com/SnowScapes/KSHigh_BusanPT/assets/39547945/c2b9448c-2b25-4310-8928-0f11c86ca9c5">
+
+---
+
+### 코드 작성 참고
+
+1. [UI](https://flutterawesome.com/a-flutter-todo-list-app-with-setstate-local-state/)
+2. [API,XML](https://dkswnkk.tistory.com/28)
+3. [Pull to Refresh](https://dev-yakuza.posstree.com/ko/flutter/widget/RefreshIndicator/)
