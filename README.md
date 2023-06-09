@@ -33,7 +33,7 @@
 
 ---
 
-### 코드 작성 참고
+### 코드 작성 참고, 출처
 
 1. [UI](https://flutterawesome.com/a-flutter-todo-list-app-with-setstate-local-state/)
 2. [API,XML](https://dkswnkk.tistory.com/28)
